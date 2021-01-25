@@ -121,7 +121,9 @@ public class Saltos {
 		}
 	}
 
-
+	
+	
+	//con etiquetas se solventa o ultimo
 
 	/**public static void numPrimos2() {
 		for(int j=1; j<101; j++) {
